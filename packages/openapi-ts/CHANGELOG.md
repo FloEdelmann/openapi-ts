@@ -1,5 +1,11 @@
 # @hey-api/openapi-ts
 
+## 0.87.1
+
+### Patch Changes
+
+- fix(typescript): remove legacy options ([#2929](https://github.com/hey-api/openapi-ts/pull/2929)) ([`97c1f0e`](https://github.com/hey-api/openapi-ts/commit/97c1f0e94f8eb8ca2d74f4f5ebe51a53f347641b)) by [@mrlubos](https://github.com/mrlubos)
+
 ## 0.87.0
 
 ### Minor Changes
